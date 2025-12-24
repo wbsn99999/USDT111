@@ -1,0 +1,16 @@
+{
+  "name": "USDT1",
+  "symbol": "USDT1",
+  "description": "STABLE USDT TOKEN",
+  "image": "https://github.com/wbsn99999/USDT111/blob/fa21ad7fb214fd390a17768a7b98cfd93b7f88e8/USDT.png",
+  "external_url": "https://tether.to/en/",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://github.com/wbsn99999/USDT111/blob/fa21ad7fb214fd390a17768a7b98cfd93b7f88e8/USDT.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "fungible"
+  }
+}
