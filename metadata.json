@@ -1,7 +1,7 @@
 {
-  "name": "USDT1",
-  "symbol": "USDT1",
-  "description": "STABLE USDT TOKEN",
+  "name": "Wrapped USDT",
+  "symbol": "WUSDT",
+  "description": "STABLE USDT TOKEN WRAPPED",
   "image": "https://raw.githubusercontent.com/wbsn99999/USDT111/62232b620d8dc9b80091eb566f5e431087021e7c/USDT.png",
   "external_url": "https://tether.to/en/",
   "properties": {
@@ -14,4 +14,5 @@
     "category": "fungible"
   }
 }
+
 
